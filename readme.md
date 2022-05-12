@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./LOGO.svg">
+<img src="./public/assets/LOGO.svg">
 </p>
 <h2 align="center"> - Cine Code -</h2>
 <p align="center">
