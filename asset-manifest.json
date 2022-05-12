@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CineCode/static/css/main.d3ae8a38.css",
-    "main.js": "/CineCode/static/js/main.c339fd30.js",
+    "main.js": "/CineCode/static/js/main.074a69fb.js",
     "static/media/background-hero.svg": "/CineCode/static/media/background-hero.68d0575d0a6a41d7199b.svg",
     "static/media/error404.svg": "/CineCode/static/media/error404.97fc01710070f58266b71512b15809ff.svg",
     "static/media/poster.svg": "/CineCode/static/media/poster.8947ae918ebf6f38218a13c04a76dddc.svg",
@@ -17,10 +17,10 @@
     "static/media/back.svg": "/CineCode/static/media/back.2636435ff9db549ad6d1cb2fa814a2cb.svg",
     "static/media/footer.svg": "/CineCode/static/media/footer.fda25c90d45a18f5c73f3a17a722f8dc.svg",
     "main.d3ae8a38.css.map": "/CineCode/static/css/main.d3ae8a38.css.map",
-    "main.c339fd30.js.map": "/CineCode/static/js/main.c339fd30.js.map"
+    "main.074a69fb.js.map": "/CineCode/static/js/main.074a69fb.js.map"
   },
   "entrypoints": [
     "static/css/main.d3ae8a38.css",
-    "static/js/main.c339fd30.js"
+    "static/js/main.074a69fb.js"
   ]
 }
