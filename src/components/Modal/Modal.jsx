@@ -36,7 +36,7 @@ const Modal = () => {
                             >
                                 Cancelar
                             </button>
-                            <Link to="/">
+                            <Link to="/CineCode/">
                                 <button
                                     className="button_default"
                                     onClick={() => {

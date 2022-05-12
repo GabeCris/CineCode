@@ -12,7 +12,7 @@ const Error = () => {
             <Loading></Loading>
             <img src={Error404} alt="" />
             <TitleSection title="Página não encontrada" />
-            <Link to="/">
+            <Link to="/CineCode/">
                 <Button icon="home" text="Voltar" color="secondary" />
             </Link>
         </div>

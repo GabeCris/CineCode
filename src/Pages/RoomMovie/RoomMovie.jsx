@@ -60,7 +60,7 @@ const RoomMovie = () => {
             <Loading></Loading>
             <header>
                 <img src={Logo} alt="" />
-                <Link to="/">
+                <Link to="/CineCode/">
                     <img src={Close} alt="" />
                 </Link>
             </header>
