@@ -4,7 +4,7 @@ import styles from "./MovieInfo.module.css";
 const MovieInfo = ({ icon, text }) => {
     return (
         <div className={styles.informations}>
-            <img src={"/icons/" + icon + ".svg"} alt="" />
+            <img src={"./icons/" + icon + ".svg"} alt="" />
             <p>{text}</p>
         </div>
     );
