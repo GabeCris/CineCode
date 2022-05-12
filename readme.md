@@ -12,9 +12,9 @@
 Este é meu primeiro projeto feito com REACT! <br>Se trata de uma página de cinema, em que você visualiza os filmes em cartaz, vê os detalhes, e pode comprar ingressos para assistí-lo, além de poder escolher seu assento na sala da sessão.
 <br>
 <br>
-<img src="./Cine-Code.gif">
+<img src="./public/assets/Cine-Code.gif">
 
-## - Linguagens e Libs utilizadas -
+## - Tecnologias utilizadas -
 <br>
 <!-- HTML -->
 <!-- REACT -->
@@ -47,7 +47,7 @@ Este é meu primeiro projeto feito com REACT! <br>Se trata de uma página de cin
  
 <p>• Protótipo da interface</p>
 <p>• Desenvolvido o design e demais estilos da página</p>
-<img src="./FIGMA.png">
+<img src="./public/assets/FIGMA.png">
 
 ## - Meus contatos -
 <br>
@@ -55,6 +55,7 @@ Este é meu primeiro projeto feito com REACT! <br>Se trata de uma página de cin
 <br>
 <div> 
   <a href = "mailto:gabrecrisanto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank</a>
+  
   <a href="https://api.whatsapp.com/send?phone=5541984818428" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gabriel-crisanto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/GabeCris" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
