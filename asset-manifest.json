@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Cine-Code/static/css/main.def683b6.css",
-    "main.js": "/Cine-Code/static/js/main.660ea2f6.js",
-    "static/media/background-hero.svg": "/Cine-Code/static/media/background-hero.68d0575d0a6a41d7199b.svg",
-    "static/media/error404.svg": "/Cine-Code/static/media/error404.97fc01710070f58266b71512b15809ff.svg",
-    "static/media/poster.svg": "/Cine-Code/static/media/poster.8947ae918ebf6f38218a13c04a76dddc.svg",
-    "static/media/logo-cine-code.svg": "/Cine-Code/static/media/logo-cine-code.bfb82655ce184ae9ff38c5e6f3129caf.svg",
-    "static/media/heart-null.svg": "/Cine-Code/static/media/heart-null.327393a72b13b98e26c5f5ba2e4a011c.svg",
-    "static/media/close.svg": "/Cine-Code/static/media/close.032bdcf17522b1364b2f125c8a74000d.svg",
-    "static/media/user.svg": "/Cine-Code/static/media/user.93cfdb1cf841be356362317a4fa57199.svg",
-    "static/media/ticket.svg": "/Cine-Code/static/media/ticket.e7772cab7582232c4cd7b794dd4608d3.svg",
-    "static/media/github.svg": "/Cine-Code/static/media/github.36ef1cfe2b2ddd45d538a2590e11eb0a.svg",
-    "static/media/linkedin.svg": "/Cine-Code/static/media/linkedin.5c2f730305220c1f02361f3ea15eb8c4.svg",
-    "static/media/heart-full.svg": "/Cine-Code/static/media/heart-full.51787af5fd9ca384e8203a31069b6070.svg",
-    "index.html": "/Cine-Code/index.html",
-    "static/media/back.svg": "/Cine-Code/static/media/back.2636435ff9db549ad6d1cb2fa814a2cb.svg",
-    "static/media/footer.svg": "/Cine-Code/static/media/footer.fda25c90d45a18f5c73f3a17a722f8dc.svg",
-    "main.def683b6.css.map": "/Cine-Code/static/css/main.def683b6.css.map",
-    "main.660ea2f6.js.map": "/Cine-Code/static/js/main.660ea2f6.js.map"
+    "main.css": "/CineCode/static/css/main.d3ae8a38.css",
+    "main.js": "/CineCode/static/js/main.c339fd30.js",
+    "static/media/background-hero.svg": "/CineCode/static/media/background-hero.68d0575d0a6a41d7199b.svg",
+    "static/media/error404.svg": "/CineCode/static/media/error404.97fc01710070f58266b71512b15809ff.svg",
+    "static/media/poster.svg": "/CineCode/static/media/poster.8947ae918ebf6f38218a13c04a76dddc.svg",
+    "static/media/logo-cine-code.svg": "/CineCode/static/media/logo-cine-code.bfb82655ce184ae9ff38c5e6f3129caf.svg",
+    "static/media/heart-null.svg": "/CineCode/static/media/heart-null.327393a72b13b98e26c5f5ba2e4a011c.svg",
+    "static/media/close.svg": "/CineCode/static/media/close.032bdcf17522b1364b2f125c8a74000d.svg",
+    "static/media/user.svg": "/CineCode/static/media/user.93cfdb1cf841be356362317a4fa57199.svg",
+    "static/media/ticket.svg": "/CineCode/static/media/ticket.e7772cab7582232c4cd7b794dd4608d3.svg",
+    "static/media/github.svg": "/CineCode/static/media/github.36ef1cfe2b2ddd45d538a2590e11eb0a.svg",
+    "static/media/linkedin.svg": "/CineCode/static/media/linkedin.5c2f730305220c1f02361f3ea15eb8c4.svg",
+    "static/media/heart-full.svg": "/CineCode/static/media/heart-full.51787af5fd9ca384e8203a31069b6070.svg",
+    "index.html": "/CineCode/index.html",
+    "static/media/back.svg": "/CineCode/static/media/back.2636435ff9db549ad6d1cb2fa814a2cb.svg",
+    "static/media/footer.svg": "/CineCode/static/media/footer.fda25c90d45a18f5c73f3a17a722f8dc.svg",
+    "main.d3ae8a38.css.map": "/CineCode/static/css/main.d3ae8a38.css.map",
+    "main.c339fd30.js.map": "/CineCode/static/js/main.c339fd30.js.map"
   },
   "entrypoints": [
-    "static/css/main.def683b6.css",
-    "static/js/main.660ea2f6.js"
+    "static/css/main.d3ae8a38.css",
+    "static/js/main.c339fd30.js"
   ]
 }
