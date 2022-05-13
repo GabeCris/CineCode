@@ -3,7 +3,7 @@
 </p>
 <h2 align="center"> - Cine Code -</h2>
 <p align="center">
-<a href="https://gabecris.github.io/ToDo/" target="_blank">👉 Acesse a página aqui 👈</a>
+<a href="https://gabecris.github.io/CineCode/" target="_blank">👉 Acesse a página aqui 👈</a>
 </p>
 <hr>
 
